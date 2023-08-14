@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">contacts</string>
+    <string name="name">name</string>
+    <string name="PhoneIcon">Phone Icon</string>
+    <string name="Btn_Refresh">Refresh</string>
+    <string name="logo">logo</string>
+</resources>
